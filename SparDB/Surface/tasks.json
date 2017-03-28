@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "command": "C:\\Users\\brand\\.virtualenvs\\SparDB\\Scripts\\python.exe",
+    "isShellCommand": true,
+    "args": ["${file}"],
+    "showOutput": "always"
+}

@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\brand\\.virtualenvs\\SparDB\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\brand\\.virtualenvs\\SparDB\\Lib",
+        "C:\\Users\\brand\\.virtualenvs\\SparDB\\Lib\\sites-available"
+    ],
+    "python.venvPath": "C:\\Users\\brand\\.virtualenvs"
+}
